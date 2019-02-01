@@ -1,0 +1,27 @@
+#######################################
+# setupI (KEYWORD1)
+#######################################
+set	KEYWORD3
+setupI	KEYWORD3
+setupII	KEYWORD3
+control	KEYWORD3
+MOTOR1	LITERAL1
+MOTOR2	LITERAL1
+PORT0	LITERAL1
+PORT1	LITERAL1
+PORT2	LITERAL1
+PORT3	LITERAL1
+M1	LITERAL1
+M2	LITERAL1
+P0	LITERAL1
+P1	LITERAL1
+P2	LITERAL1
+P3	LITERAL1
+#######################################
+# class (KEYWORD1)
+#######################################
+ADC_12bit	KEYWORD3
+Speed_control	KEYWORD3
+Position_control	KEYWORD3
+Speed_control_ver2	KEYWORD3
+Position_control_ver2	KEYWORD3
